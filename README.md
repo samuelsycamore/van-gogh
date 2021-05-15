@@ -1,3 +1,11 @@
+# Van Gogh Stack
+
+## VNGH: Vercel + Next.js + Ghost CMS + Heroku
+
+Tutorial originally published on Hashnode:
+
+https://tanoaksam.hashnode.dev/nextjs-ghost-cms-jamstack-blog
+
 ### The purpose of this guide is to get you up and running as quickly as possible with a robust Jamstack blog that's ready to grow with you.
 
 Our final product will be skeletal and austere but fully functional.
